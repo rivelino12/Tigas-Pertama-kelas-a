@@ -1,0 +1,304 @@
+*
+{
+    font-family: Poppins;
+}
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins';
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #152C5B;
+}
+
+li {
+    margin-right: 15px;
+}
+
+.header {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.header h1 {
+    color: #152C5B;
+}
+
+.stay {
+    color: #3252DF;
+}
+
+.firstlist {
+    color: #3252DF;
+}
+
+main .show__me {
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.forget__your {
+    position: relative;
+    margin-right: 300px;
+}
+
+.forget__your h2 {
+    font-size: 42px;
+    color: #152C5B;
+}
+
+.forget__your p {
+    color: #B0B0B0;
+}
+
+.forget__your button {
+    background-color: #3252DF;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+
+.travel {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    left: 0;
+}
+
+.travel div {
+    margin-right: 30px;
+}
+
+.travel span {
+    color: #152C5B;
+    font-weight: bold;
+}
+
+.most_picked {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    width: max-content;
+    margin-top: 70px;
+
+    color: #152C5B;
+}
+
+.kotak-pink { 
+
+
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 180px;
+    height: 40px;
+    border-radius: 0px 20px;
+    text-align: center;
+    padding-bottom: 15px;
+    background-color: #ff498b;
+    color: white;
+}
+.most-gambar {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    
+}
+
+.finns {
+    position: relative;
+}
+
+.picture1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.montigo {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.calpa {
+    position: relative;
+}
+
+.montana {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.caesar {
+    position: relative;
+}
+
+
+.houses_backyard{
+  display: flex;
+  flex-direction: row;
+
+}
+.backyard {
+    width: max-content;  
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
+}
+.backyard h3 {
+    margin-left: -30px;
+}
+.backyard span{
+    font-weight: bold;
+}
+
+.tabby_town {
+    position: relative;
+    margin-right: 30px;
+    margin-left: -30px;
+}
+
+.anggana {
+    position:relative;
+    margin-right: 30px;
+}
+
+.seattle_rain {
+    position:relative;
+    margin-right: 30px;    
+}
+
+.wooden_pait {
+    position:relative;
+    margin-right: 30px;
+}
+
+
+.hotels{
+    width: max-content;  
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
+}
+.hotels_with_living_room {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.green_park {
+    position: relative;
+    margin-right: 30px;
+}
+
+.podo_wae {
+    position: relative;
+    margin-right: 30px;
+}
+
+.silver_rain {
+    position:relative;
+    margin-right: 30px;
+}
+
+.cash_ville {
+    position:relative;
+    margin-right: 30px;
+}
+.cash_ville span{
+    font-weight: bold;
+}
+
+
+.apartement{
+  width: max-content;  
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.apartement_with_kitchen {
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+}
+
+.ps_wood {
+    position:relative;
+    margin-right: 30px;
+}
+
+.one_five {
+    position:relative;
+    margin-right: 30px;
+}
+
+.minimal{
+    position:relative;
+    margin-right: 30px;
+}
+
+.minimal span {
+    font-weight: bold;
+}
+
+.stays_home{
+    position:relative;
+    margin-right: 30px;
+}
+
+.gambar-keluarga {
+    display: flex;
+    flex-direction: row;
+    width: max-content;  
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    margin-top: 100px;
+}
+
+.happy_family {
+    flex-grow: 1;
+    margin: auto;
+    padding: auto;
+    margin-left: 50px;
+}
+
+.pic-star {
+    display: flex;
+    flex-direction: row;
+}
+
+.happy_family button {
+    background-color: #3252DF;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+}
